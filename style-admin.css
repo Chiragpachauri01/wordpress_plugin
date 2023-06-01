@@ -1,0 +1,64 @@
+  .widefat {
+    width: auto;
+  }
+  
+  .ss-list-width {
+    width: 25%;
+  }
+  
+  .ss-form-width {
+    width: 100%;
+  }
+  
+  .ss-th-width {
+    width: 25%;
+  }
+  
+  .ss-field-width {
+    width: 75%;
+  }
+  
+  .slider-block {
+ text-align: center;
+    margin: 0 auto;
+    max-width: 100%;
+    padding: 0 20px;
+  }
+  
+  .slider {
+    
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+  }
+  
+  .slider-block h3 {
+    font-size: 25px;
+    margin-bottom: 30px;
+
+  }
+  
+  .item {
+    margin: 20px;
+    max-width: 400px;
+    width: 100%;
+    text-align: left;
+  }
+  
+  .item img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .item h4 {
+    font-size: 20px;
+    font-weight: 700;
+    margin: 20px  0px;
+    text-align: center;
+  }
+  .item p{
+    font-weight: 400;
+
+  }
